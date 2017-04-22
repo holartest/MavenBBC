@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9406" started-at="2017-04-09T17:28:00Z" finished-at="2017-04-09T17:28:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9406" started-at="2017-04-09T17:28:00Z" finished-at="2017-04-09T17:28:09Z">
+      <class name="com.feranmiworkflow.Feranmi.FeMortCalcuTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.feranmiworkflow.Feranmi.FeMortCalcuTest@3532ec19]" name="setUp" is-config="true" duration-ms="5109" started-at="2017-04-09T18:28:00Z" finished-at="2017-04-09T18:28:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="CalcuMortg()[pri:0, instance:com.feranmiworkflow.Feranmi.FeMortCalcuTest@3532ec19]" name="CalcuMortg" duration-ms="2798" started-at="2017-04-09T18:28:05Z" finished-at="2017-04-09T18:28:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalcuMortg -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.feranmiworkflow.Feranmi.FeMortCalcuTest@3532ec19]" name="tearDown" is-config="true" duration-ms="1466" started-at="2017-04-09T18:28:08Z" finished-at="2017-04-09T18:28:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.feranmiworkflow.Feranmi.FeMortCalcuTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
